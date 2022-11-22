@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "strictNullChecks": true,
+        "strictNullChecks": false,
         "lib": ["es2021", "DOM"],
         "target": "ES2021",
         "strictFunctionTypes": true,
