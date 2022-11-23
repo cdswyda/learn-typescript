@@ -27,13 +27,13 @@ let tmp2: undefined = undefined;
 
 
 // 关于 obj: object 的赋值问题，如果需要只能允许特定的 k-v 需要如下处理：
-type User = {
-    username: string;
-    age: string;
-}
-interface IUser {
-    username: string;
-    age: string;
-}
+// type User = {
+//     username: string;
+//     age: string;
+// }
+// interface IUser {
+//     username: string;
+//     age: string;
+// }
 
 
