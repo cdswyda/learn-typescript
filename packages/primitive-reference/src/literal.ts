@@ -3,7 +3,7 @@ const SERVER_ERROR_CODE: 500 = 500; // 只能是 500
 const objx: { x: true } = { x: true }; // 只能是 {x: true}
 
 let string1: "success" = "success";
-// 能够识别 string2 类型是 "success" 
+// 能够识别 string2 类型是 "success"
 const string2 = "success";
 
 interface IRes {
